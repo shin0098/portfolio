@@ -1,0 +1,47 @@
+
+:root {
+    --bs-body-font-family: 'Montserrat', sans-serif;
+    letter-spacing: -0.05rem;
+    font-size: 10px;
+}
+
+
+video{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+body {
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+
+
+a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+
+
+.navbar-nav{
+    font-size: 1.8rem;
+}
+
+.header-content {
+    position: absolute;
+    top:30%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 3rem;
+}
+
+
+
+/* footer */
+
+.footer {
+    background-color: #2791BF;
+}
+
