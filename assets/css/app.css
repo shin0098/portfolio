@@ -57,6 +57,14 @@ a {
     font-size: 2.5rem;
 }
 
+.down-scroll {
+    margin-top: 3.2rem;
+}
+
+
+.down-scroll img{
+    width: 30px;
+}
 
 
 /* footer */

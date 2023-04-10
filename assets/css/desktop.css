@@ -12,6 +12,11 @@
         font-size: 4.8rem;
     }
 
+    
+.design-focus {
+    padding: 11rem 0;
+}
+
 
     .memoji-title p{
         font-size: 3.6rem;
@@ -33,6 +38,11 @@
     
     .focus-text p:last-child {
         font-size: 3.3rem;
+    }
+
+
+    .down-scroll img{
+        width: 30px;
     }
     
 
