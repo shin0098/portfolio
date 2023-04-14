@@ -27,3 +27,7 @@ It was difficult to do the animation effect that appears when scrolling down onl
 ## Learned
 This was my first website using Bootstrap. Adobe Xd development tool was helpful to make a real website. I learned how to easily switch responsive layouts with Bootstrap.
 
+## Credits
+* Bootstrap: https://getbootstrap.com/
+* Font Awesome: https://fontawesome.com/
+* AOS: https://michalsnik.github.io/aos/
