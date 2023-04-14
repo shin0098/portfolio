@@ -1,4 +1,4 @@
-
+/* Common css */
 :root {
     --bs-body-font-family: 'Montserrat', sans-serif;
     letter-spacing: -0.05rem;
@@ -6,15 +6,12 @@
 }
 
 
-video{
-    width: 100%;
-    height: calc(100vh - 15rem);
-    object-fit: cover;
-}
+
 
 body {
     box-sizing: border-box;
     overflow-x: hidden;
+    color: #292929;
   }
 
 
@@ -23,8 +20,12 @@ a {
     color: inherit;
   }
 
+  h3 {
+    font-size: 3rem;
+  }
 
 
+/* header */
 
 .header-content {
     position: absolute;
@@ -35,41 +36,11 @@ a {
 }
 
 
-.design-focus {
-    padding: 9rem 0;
-}
-
-.memoji-title p{
-    font-size: 3.4rem;
-    line-height: 0.8;
-}
-
-.focus-text p:first-child {
-    font-size: 2.3rem;
-    
-}
-
-.focus-text p:nth-child(2){
-    font-size: 2rem;
-}
-
-.focus-text p:last-child {
-    font-size: 2.5rem;
-}
-
-.down-scroll {
-    margin-top: 3.2rem;
-}
-
-
-.down-scroll img{
-    width: 30px;
-}
-
 
 /* footer */
 
 .footer {
     background-color: #2791BF;
 }
+
 
