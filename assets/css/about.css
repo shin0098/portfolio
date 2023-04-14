@@ -23,6 +23,8 @@
 
 .hobby{
     margin: 10rem 0;
+
+    /* Desktop screen viewport */
 }
 @media screen and (min-width: 576px) {
 
