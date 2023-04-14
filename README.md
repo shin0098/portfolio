@@ -5,7 +5,7 @@ This website is Jihyeon Shin's UI / UX portfolio.
 🚀 About Me
 I’m a UI/UX designer majoring in Interactive Media Design at Algonquin College.
 
-Mail
+Mail: shin0098@algonquinlive.com
 
 ## Motivation
 This portfolio website showcases my skills and experience in UI/UX design. As a designer, having a well-designed portfolio website that reflects my skills is crucial today. Additionally, I wanted to challenge myself by coding the website myself to demonstrate my ability to work with developers and other departments in the future.
