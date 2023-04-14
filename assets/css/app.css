@@ -1,17 +1,32 @@
-/* Common css */
+
 :root {
     --bs-body-font-family: 'Montserrat', sans-serif;
+    --dark-color: #292929;
     letter-spacing: -0.05rem;
     font-size: 10px;
+   
 }
 
+/* Customize the default colour scheme of Bootstrap */
 
+.bg-primary {
+  background-color: #2791BF !important;
+}
 
+.bg-info {
+background-color: #BEFCD5 !important;
+}
+
+.text-dark {
+  color: #292929 !important;
+}
+
+/* Common Css values */
 
 body {
     box-sizing: border-box;
     overflow-x: hidden;
-    color: #292929;
+    color: var(--dark-color);
   }
 
 
@@ -35,12 +50,5 @@ a {
     font-size: 3rem;
 }
 
-
-
-/* footer */
-
-.footer {
-    background-color: #2791BF;
-}
 
 
